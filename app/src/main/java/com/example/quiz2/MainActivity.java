@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText txtName;
     private EditText txtSalary;
     private Spinner spnType;
+
     private ListView listView;
     private Button btnAdd;
 
