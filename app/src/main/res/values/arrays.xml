@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="employeeType">
+        <item>Full Time</item>
+        <item>Part Time</item>
+    </array>
+</resources>
